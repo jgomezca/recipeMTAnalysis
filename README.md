@@ -12,7 +12,8 @@ Setup the relevant CMSSW version
 
 Clone this repo into your /src/ area
 
-    git clone git://github.com/ttbarMET-at-IPHC/recipeMTAnalysis.git ./
+    git clone git@github.com:jgomezca/recipeMTAnalysis.git ./
+    
     
 Launch the install
     
